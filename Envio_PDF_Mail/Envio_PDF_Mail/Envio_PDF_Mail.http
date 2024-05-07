@@ -1,0 +1,6 @@
+@Envio_PDF_Mail_HostAddress = http://localhost:5133
+
+GET {{Envio_PDF_Mail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

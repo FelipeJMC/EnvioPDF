@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Envio_PDF_Mail.props" />
+</Project>
